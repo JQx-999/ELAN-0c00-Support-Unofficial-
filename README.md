@@ -32,6 +32,8 @@ xhost +local:root
 ## Downloads
 [Click here to download!](https://github.com/JQx-999/ELAN-0c00-Support-Unofficial-/releases/download/v0.1/Elan_0c00_support-x86_64.AppImage)
 
+[Releases](https://github.com/JQx-999/ELAN-0c00-Support-Unofficial-/releases)
+
 You are required to run this Appimage with admin/sudo privileges.
 
 ## A bit of nerdy stuff!
