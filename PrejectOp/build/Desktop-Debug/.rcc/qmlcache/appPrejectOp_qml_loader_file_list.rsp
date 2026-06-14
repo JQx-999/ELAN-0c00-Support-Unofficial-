@@ -1,0 +1,14 @@
+--resource
+/home/JQX/PrejectOp/build/Desktop-Debug/.qt/rcc/qmake_PrejectOp.qrc
+--resource
+/home/JQX/PrejectOp/build/Desktop-Debug/.qt/rcc/appPrejectOp_raw_qml_0.qrc
+--resource
+/home/JQX/PrejectOp/build/Desktop-Debug/.qt/rcc/appPrejectOp_raw_res_0.qrc
+/qt/qml/PrejectOp/Main.qml
+/qt/qml/PrejectOp/MainMenu.qml
+/qt/qml/PrejectOp/TestPage.qml
+/qt/qml/PrejectOp/about.qml
+/qt/qml/PrejectOp/EnrollPage.qml
+/qt/qml/PrejectOp/DeletePage.qml
+/qt/qml/PrejectOp/integration.qml
+/qt/qml/PrejectOp/removal.qml

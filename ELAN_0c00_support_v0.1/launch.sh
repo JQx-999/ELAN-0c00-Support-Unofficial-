@@ -1,0 +1,10 @@
+#!/bin/bash
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+export DISPLAY="${DISPLAY:-:0}"
+export XAUTHORITY="$XAUTHORITY"
+export LD_LIBRARY_PATH="/usr/lib:/usr/lib/x86_64-linux-gnu:$SCRIPT_DIR/lib:$LD_LIBRARY_PATH"
+export QML2_IMPORT_PATH="$SCRIPT_DIR/qml"
+export QT_PLUGIN_PATH="$SCRIPT_DIR/plugins"
+export QT_QPA_PLATFORM="xcb"
+cd "$SCRIPT_DIR/bin"
+exec "./appPrejectOp" "$@"

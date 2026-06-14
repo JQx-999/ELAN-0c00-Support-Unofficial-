@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt/qml/PrejectOp/">
+    <file alias="Images/back.png">/home/JQX/PrejectOp/Images/back.png</file>
+    <file alias="Images/title.png">/home/JQX/PrejectOp/Images/title.png</file>
+    <file alias="Images/back.mp4">/home/JQX/PrejectOp/Images/back.mp4</file>
+    <file alias="Images/anime.png">/home/JQX/PrejectOp/Images/anime.png</file>
+    <file alias="fonts/JetBrainsMono-Italic-VariableFont_wght.ttf">/home/JQX/PrejectOp/fonts/JetBrainsMono-Italic-VariableFont_wght.ttf</file>
+    <file alias="fonts/JetBrainsMono-VariableFont_wght.ttf">/home/JQX/PrejectOp/fonts/JetBrainsMono-VariableFont_wght.ttf</file>
+    <file alias="fonts/Montserrat-Italic-VariableFont_wght.ttf">/home/JQX/PrejectOp/fonts/Montserrat-Italic-VariableFont_wght.ttf</file>
+    <file alias="fonts/mont.ttf">/home/JQX/PrejectOp/fonts/mont.ttf</file>
+    <file alias="Images/icon.svg">/home/JQX/PrejectOp/Images/icon.svg</file>
+    <file alias="Images/icon.png">/home/JQX/PrejectOp/Images/icon.png</file>
+    <file alias="scripts/elan_auth">/home/JQX/PrejectOp/scripts/elan_auth</file>
+  </qresource>
+</RCC>
+

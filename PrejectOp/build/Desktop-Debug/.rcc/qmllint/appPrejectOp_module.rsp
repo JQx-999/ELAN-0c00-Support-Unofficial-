@@ -1,0 +1,16 @@
+-I
+/home/JQX/PrejectOp/build/Desktop-Debug
+-I
+/home/JQX/PrejectOp/build/Desktop-Debug/PrejectOp
+-I
+/home/JQX/PrejectOp/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/JQX/PrejectOp/build/Desktop-Debug/.qt/rcc/qmake_PrejectOp.qrc
+--resource
+/home/JQX/PrejectOp/build/Desktop-Debug/.qt/rcc/appPrejectOp_raw_qml_0.qrc
+--resource
+/home/JQX/PrejectOp/build/Desktop-Debug/.qt/rcc/appPrejectOp_raw_res_0.qrc
+--module
+PrejectOp

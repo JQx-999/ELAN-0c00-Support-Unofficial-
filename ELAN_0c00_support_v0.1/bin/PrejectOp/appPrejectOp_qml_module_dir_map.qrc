@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/PrejectOp">/home/JQX/PrejectOp/build/Desktop-Release/PrejectOp</file>
+
+  </qresource>
+</RCC>

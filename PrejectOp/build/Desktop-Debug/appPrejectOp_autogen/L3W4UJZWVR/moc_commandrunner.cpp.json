@@ -1,0 +1,77 @@
+{
+    "classes": [
+        {
+            "className": "CommandRunner",
+            "lineNumber": 9,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "command",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "arguments",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 22,
+                    "name": "runPrivileged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "command",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "isCloned": true,
+                    "lineNumber": 22,
+                    "name": "runPrivileged",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "CommandRunner",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 79,
+                    "name": "commandStarted",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "success",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "exitCode",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 82,
+                    "name": "commandFinished",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "commandrunner.h",
+    "outputRevision": 69
+}

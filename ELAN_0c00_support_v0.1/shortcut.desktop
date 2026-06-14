@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Elan_0c00_support
+Exec=launch.sh
+Icon=icon
+Categories=Utility;

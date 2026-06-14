@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/qt/qml/PrejectOp/">
+    <file alias="Main.qml">/home/JQX/PrejectOp/Main.qml</file>
+    <file alias="MainMenu.qml">/home/JQX/PrejectOp/MainMenu.qml</file>
+    <file alias="TestPage.qml">/home/JQX/PrejectOp/TestPage.qml</file>
+    <file alias="about.qml">/home/JQX/PrejectOp/about.qml</file>
+    <file alias="EnrollPage.qml">/home/JQX/PrejectOp/EnrollPage.qml</file>
+    <file alias="DeletePage.qml">/home/JQX/PrejectOp/DeletePage.qml</file>
+    <file alias="integration.qml">/home/JQX/PrejectOp/integration.qml</file>
+    <file alias="removal.qml">/home/JQX/PrejectOp/removal.qml</file>
+  </qresource>
+</RCC>
+

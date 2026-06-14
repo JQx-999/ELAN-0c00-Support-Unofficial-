@@ -1,0 +1,10 @@
+module PrejectOp
+typeinfo appPrejectOp.qmltypes
+prefer :/qt/qml/PrejectOp/
+Main 254.0 Main.qml
+MainMenu 254.0 MainMenu.qml
+TestPage 254.0 TestPage.qml
+EnrollPage 254.0 EnrollPage.qml
+DeletePage 254.0 DeletePage.qml
+depends QtQuick
+

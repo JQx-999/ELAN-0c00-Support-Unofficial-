@@ -1,0 +1,15 @@
+-rootPath
+/home/JQX/PrejectOp
+-cmake-output
+-output-file
+/home/JQX/PrejectOp/build/Desktop-Release/.qt/qml_imports/appPrejectOp_conf.cmake
+-importPath
+/home/JQX/PrejectOp/build/Desktop-Release
+-importPath
+/home/JQX/PrejectOp/build/Desktop-Release/PrejectOp
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/JQX/PrejectOp/build/Desktop-Release/.qt/rcc/qmake_PrejectOp.qrc
+/home/JQX/PrejectOp/build/Desktop-Release/.qt/rcc/appPrejectOp_raw_qml_0.qrc
+/home/JQX/PrejectOp/build/Desktop-Release/.qt/rcc/appPrejectOp_raw_res_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PrejectOp/">
+    <file alias="scripts/qmldir">/home/JQX/PrejectOp/build/Desktop-Debug/PrejectOp/scripts/qmldir</file>
+  </qresource>
+</RCC>
+
