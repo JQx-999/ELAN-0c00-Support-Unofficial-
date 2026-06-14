@@ -1,6 +1,6 @@
 # ELAN 0c00 Support (Unofficial)
 
-Check out the [website]()(beta)!
+Check out the [website](https://jqx-999.github.io/host/ElanSupport/index.html)(beta)!
 
 This program is designed to emulate/mimic the Windows driver for **ELAN:ARM-M4 04f3:0c00** on Linux. This program is made to:
 * Test Fingerprint
@@ -26,6 +26,8 @@ Use the command if you are using hyprland before running the application:
 ```
 xhost +local:root
 ```
+## Downloads
+[Link](https://github.com/JQx-999/ELAN-0c00-Support-Unofficial-/releases/download/v0.1/Elan_0c00_support-x86_64.AppImage)
 
 ## A bit of nerdy stuff!
 
