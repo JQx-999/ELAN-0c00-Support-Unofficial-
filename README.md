@@ -2,6 +2,8 @@
 
 Check out the [website](https://jqx-999.github.io/host/ElanSupport/index.html)(beta)!
 
+![Main Image](assets/main.png)
+
 This program is designed to emulate/mimic the Windows driver for **ELAN:ARM-M4 04f3:0c00** on Linux. This program is made to:
 * Test Fingerprint
 * Enroll Fingerprint
