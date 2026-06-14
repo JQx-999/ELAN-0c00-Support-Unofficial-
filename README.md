@@ -13,9 +13,7 @@ This program is designed to emulate/mimic the Windows driver for **ELAN:ARM-M4 0
 Basically, do your job for the fingerprint sensor. Currently, it just adds only the first (out of multiple) fingerprint. I would make it to add multiple fingerprints in future updates. 
 
 ## Demo Video
-<video src="https://raw.githubusercontent.com/JQx-999/ELAN-0c00-Support-Unofficial-/refs/heads/main/assets/main.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+![](https://raw.githubusercontent.com/JQx-999/ELAN-0c00-Support-Unofficial-/refs/heads/main/assets/main.mp4)
 
 ## Warning!!
 This program is designed to directly contact/communicate with your hardware using **libusb-1.0** and **raw hexcodes** that had been captured, analyzed and optimised using Wireshark software from Windows 11. Thus making us enable to perfectly mimic the Windows driver for the hardware. So **USE AT YOUR OWN RISK. ITS POSSIBLE THAT YOU LOCK YOURSELF UP MAKING YOUR COMPUTER UNUSABLE**. Good luck for future!
