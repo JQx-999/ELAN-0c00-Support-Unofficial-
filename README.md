@@ -13,7 +13,7 @@ This program is designed to emulate/mimic the Windows driver for **ELAN:ARM-M4 0
 Basically, do your job for the fingerprint sensor. Currently, it just adds only the first (out of multiple) fingerprint. I would make it to add multiple fingerprints in future updates. 
 
 ## Demo Video
-<video src="https://github.com/JQx-999/ELAN-0c00-Support-Unofficial-/blob/main/assets/main.mp4" width="100%" controls>
+<video src="https://raw.githubusercontent.com/JQx-999/ELAN-0c00-Support-Unofficial-/refs/heads/main/assets/main.mp4" width="100%" controls>
   Your browser does not support the video tag.
 </video>
 
