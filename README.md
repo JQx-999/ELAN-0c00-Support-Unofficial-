@@ -24,6 +24,9 @@ This program is designed to directly contact/communicate with your hardware usin
 This software has been made and tested using environments having latest **Arch Linux and Cachy OS (Preferably)** with Linux Kernel 7.0.11-zen1-1zen, GCC 16.1.1 20260430 and Qt 5.15.19 with Qt 6.11.1. 
 
 You need to have **bash**, **xorg-xhost** for *Hyprland*, and **libglvnd**.
+```
+sudo pacman -S bash xorg-xhost libglvnd
+```
 
 Note: No additional libraries of Fedora or others has been included so it won't work on the other distros leaving Arch as only option. (I have tested myself)
 
@@ -37,6 +40,11 @@ xhost +local:root
 [Releases](https://github.com/JQx-999/ELAN-0c00-Support-Unofficial-/releases)
 
 You are required to run this Appimage with admin/sudo privileges.
+
+For example:-
+```
+sudo ./Elan_0c00_support-x86_64.AppImage
+```
 
 ## A bit of nerdy stuff!
 
